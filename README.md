@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h2 align="center">
-Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolvimento WEB.
+Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolvimento web
 </h2>
 
 <h3 align="left">Linguagens e ferramentas</h3>
