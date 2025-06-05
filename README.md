@@ -51,7 +51,7 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 <img src="assets/icons/tools/copilot_dark.svg" alt="copilot" width="40" height="40">
 <!--github-->
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="assets/icons/tools/github_dark.svg" alt="github" width="40" height="40">
+<img src="assets/icons/tools/github.png" alt="github" width="40" height="40">
 </a> 
 <!--git-->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
