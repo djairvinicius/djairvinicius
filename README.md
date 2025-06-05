@@ -48,7 +48,7 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 </a>
 <!--copilot-->
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
-<img src="assets/icons/tools/copilot_dark.svg" alt="copilot" width="40" height="40">
+<img src="assets/icons/tools/copilot.jpeg" alt="copilot" width="40" height="40">
 <!--github-->
 <a href="https://github.com/" target="_blank" rel="noreferrer">
 <img src="assets/icons/tools/github.png" alt="github" width="40" height="40">
