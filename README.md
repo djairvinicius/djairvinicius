@@ -37,7 +37,7 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 </a>
 <!--markdown-->
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-<img src="assets/icons/linguage/markdown-dark.svg" alt="markdown" width="40" height="40">
+<img src="assets/icons/linguage/markdown.png" alt="markdown" width="40" height="40">
 </a>
 <!--vim-->
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
