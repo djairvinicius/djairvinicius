@@ -42,10 +42,6 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 <!--vim-->
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white" alt="vim">
-<!--vscode-->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="assets/icons/tools/vscode.svg" alt="vscode" width="40" height="40">
-</a>
 <!--copilot-->
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white" alt="copilot">
@@ -69,20 +65,5 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 <a href="https://www.mozilla.org/en-US/firefox/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Firefox%20Browser-FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="firefox">
 </a>
-<!--powertoys-->
-<a href="https://learn.microsoft.com/en-us/windows/powertoys/" target="_blank" rel="noreferrer">
-<img src="assets/icons/tools/powertoys.svg" alt="powertoys" width="40" height="40">
-<!--photoshop-->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="assets/icons/tools/photoshop.svg" alt="photoshop" width="40" height="40"/>
-</a>
-<!--premiere-->
-<a href="https://www.adobe.com/products/premiere" target="_blank" rel="noreferrer"> 
-<img src="assets/icons/tools/premiere.svg" alt="premierer" width="40" height="40">
-</a>
-<!--after-effects-->
-<a href="https://www.adobe.com/products/aftereffects" target="_blank" rel="noreferrer">
-<img src="assets/icons/tools/after-effects.svg" alt="after effects" width="40" height="40">
-</a> 
 </p>
 
