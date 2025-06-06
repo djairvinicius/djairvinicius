@@ -59,7 +59,7 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 </a> 
 <!--linux bagde-->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="40" height="40"/> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
 </a>
 <!--linux-->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
