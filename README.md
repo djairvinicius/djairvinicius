@@ -73,5 +73,8 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 <a href="https://notion.so" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="notion">
 </a>
+<!--duolingo-->
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="duolingo">
+</a>
 </p>
-
