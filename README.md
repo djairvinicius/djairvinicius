@@ -69,5 +69,9 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 <a href="https://www.mozilla.org/en-US/firefox/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Firefox%20Browser-FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="firefox">
 </a>
+<!--notion-->
+<a href="https://notion.so" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="notion">
+</a>
 </p>
 
