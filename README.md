@@ -29,7 +29,7 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 </a>
 <!--css-->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="css3"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"> 
 </a>
 <!--json-->
 <a href="https://json.org/" target="_blank" rel="noreferrer">
