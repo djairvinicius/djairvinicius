@@ -25,7 +25,7 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 <p align="left"> 
 <!--html5-->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="assets/icons/linguage/html5.svg" alt="html5" width="40" height="40"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5"/> 
 </a>
 <!--css-->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
