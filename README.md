@@ -57,6 +57,10 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="assets/icons/tools/git.svg" alt="git" width="40" height="40"/> 
 </a> 
+<!--linux bagde-->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="40" height="40"/> 
+</a>
 <!--linux-->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="assets/icons/tools/linux.svg" alt="linux" width="40" height="40"/> 
