@@ -57,6 +57,10 @@ Atualmente estudando HTML e CSS e posteriormente outras tecnologias de desenvolv
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
 </a>
+<!--ubuntu-->
+<a href="http://ubuntu.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+</a>
 <!--gimp-->
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/GIMP-8C8073.svg?style=for-the-badge&logo=GIMP&logoColor=white" alt="gimp">
